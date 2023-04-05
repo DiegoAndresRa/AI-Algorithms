@@ -1,2 +1,4 @@
-# AI-Algorithms
-Aplicación con el despliegue de algoritmos de Inteligencia Artificial
+# AI Algorithms
+Dentro de este repositorio se encuetrará la documentación de la aplicación elaborada para desplegar algoritmos de aprendizaje automatico.
+
+
